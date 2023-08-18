@@ -12,7 +12,7 @@
 2. Favorite languages: **Javascript** and **Java** without script rs
 3. First language I learned: **Javascript**
 4. As a person: **Analytical, rational and academic personality**
-5. Favorite book genre: **Technical**
+5. Favorite book genre: **History** & **Novel**
 6. Favorite book: **Crime and Punishment** - _Fyodor Dostoyevsky_
 7. Favorite movie: **Interestellar**
 
