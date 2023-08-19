@@ -8,7 +8,7 @@
 </details>
 
 ## How I'am 👨
-1. **Full-Stack Web Developer**
+1. **Full-Stack Developer**
 2. Favorite languages: **Javascript** and **Java** without script rs
 3. First language I learned: **Javascript**
 4. As a person: **Analytical, rational and academic personality**
