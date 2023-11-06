@@ -50,7 +50,8 @@
 
 | **Repository** | **Description** |
 | --- | --- |
+| [CLI-NOTIFICATION](https://github.com/lkasvr/cli-notification-client) | Client for a notification system using js websockets |
 | [DSlist](https://github.com/lkasvr/dslist) | Java API with Spring Boot |
 | [Sales API](https://github.com/lkasvr/apivendas) | Node sales API in microservice-oriented architecture | 
 | [ORADV](https://github.com/lkasvr/or_adv) | Front-End landing page for a law firm | 
-| [CLI-NOTIFICATION](https://github.com/lkasvr/cli-notification-client) | Client for a notification system using js websockets | 
+| [PWA]([https://github.com/lkasvr/cli-notification-client](https://github.com/lkasvr/gotham_imperial_hotel/tree/lkasvr)https://github.com/lkasvr/gotham_imperial_hotel/tree/lkasvr) | Building Progressive Web Apps | 
