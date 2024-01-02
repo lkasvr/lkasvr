@@ -46,6 +46,10 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkasvr&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## Main Repositories
 
 | **Repository** | **Description** |
