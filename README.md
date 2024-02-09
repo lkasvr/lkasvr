@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,linux,mysql,sqlite,postgres,prisma,graphql,jquery,js,ts,java,hibernate,docker,postman,express,html,css,tailwind,bootstrap,materialui,react,redux,next,vercel,netlify,heroku" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,linux,mysql,sqlite,postgres,prisma,graphql,jquery,js,ts,nest,java,hibernate,docker,postman,express,html,css,tailwind,bootstrap,materialui,react,redux,next,vercel,netlify,heroku" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gitlab,aws,angular,php,py,cs,dotnet,nest,sass,emotion,threejs,firebase,mongodb,sass,discord" />
+    <img src="https://skillicons.dev/icons?i=gitlab,aws,angular,php,py,sass,emotion,threejs,firebase,mongodb,sass,discord" />
   </a>
 </p>
 
