@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <details>
   <summary>Github Stats ⚡</summary>
