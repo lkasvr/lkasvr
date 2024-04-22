@@ -58,4 +58,4 @@
 | [PRM](https://github.com/lkasvr/prm) | Java API with Spring Boot |
 | [SENAI DEMO](https://github.com/lkasvr/senai-demo) | Project aims to integrate a local Quality Assurance & Quality Control laboratory testing machine into the lab's digital system | 
 | [ORADV](https://github.com/lkasvr/or_adv) | Front-End landing page for a law firm | 
-| [MENSLEGIS](https://github.com/lkasvr/menslegis-client) | menslegis Client |
+| [MENSLEGIS](https://github.com/lkasvr/menslegis-client) | Menslegis Client |
