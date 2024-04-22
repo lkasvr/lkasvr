@@ -56,6 +56,6 @@
 | --- | --- |
 | [CLI-NOTIFICATION](https://github.com/lkasvr/cli-notification-client) | Client for a notification system using js websockets |
 | [PRM](https://github.com/lkasvr/prm) | Java API with Spring Boot |
-| [Sales API](https://github.com/lkasvr/apivendas) | Node sales API in microservice-oriented architecture | 
+| [SENAI DEMO](https://github.com/lkasvr/senai-demo) | Project aims to integrate a local Quality Assurance & Quality Control laboratory testing machine into the lab's digital system | 
 | [ORADV](https://github.com/lkasvr/or_adv) | Front-End landing page for a law firm | 
-| [PWA](https://github.com/lkasvr/gotham_imperial_hotel/tree/lkasvr) | Building Progressive Web Apps |
+| [MENSLEGIS](https://github.com/lkasvr/menslegis-client) | menslegis Client |
